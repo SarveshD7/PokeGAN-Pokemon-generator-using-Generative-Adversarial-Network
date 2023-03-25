@@ -8,3 +8,5 @@ Each image is 32x32 and coloured ie, 3 channels.
 After the training the generator takes in a random image with dimensions (32, 32, 3) and produces an image of a random Pokemon.
 <hl>
  # Results
+After training over 50 Epochs
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/PokeGAN-Pokemon-generator-using-Generative-Adversarial-Network/main/predictedPokemon50Epoch.jpg" alt="Sarvesh | 50 Epoch Pokemon" />
