@@ -10,7 +10,8 @@ After the training the generator takes in a random image with dimensions (32, 32
  # Results
 After training over 50 Epochs
  <br>
-<img align="left" src="https://raw.githubusercontent.com/SarveshD7/PokeGAN-Pokemon-generator-using-Generative-Adversarial-Network/main/predictedPokemon50Epoch.jpg" alt="Sarvesh | 50 Epoch Pokemon" width = "32px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/PokeGAN-Pokemon-generator-using-Generative-Adversarial-Network/main/predictedPokemon50Epoch.jpg" alt="Sarvesh | 50 Epoch Pokemon" width = "100px"/>
+ <br>
 After training over 100 Epochs
  <br>
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/PokeGAN-Pokemon-generator-using-Generative-Adversarial-Network/main/predictedPokemon100Epoch.jpg" alt="Sarvesh | 100 Epoch Pokemon" />
