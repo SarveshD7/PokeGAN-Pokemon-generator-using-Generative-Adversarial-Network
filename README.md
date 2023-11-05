@@ -15,6 +15,6 @@ After training over 50 Epochs
 After training over 100 Epochs
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/PokeGAN-Pokemon-generator-using-Generative-Adversarial-Network/main/predictedPokemon100Epoch.jpg" alt="Sarvesh | 100 Epoch Pokemon" width = "500px"/>
 <br>
-<img align="left" src="https://raw.githubusercontent.com/SarveshD7/PokeGAN-Pokemon-generator-using-Generative-Adversarial-Network/main/pokemon1Processing.jpg" alt="Sarvesh | 100 Epoch Pokemon" width = "500px"/>
+<img align="left" src="https://raw.githubusercontent.com/SarveshD7/PokeGAN-Pokemon-generator-using-Generative-Adversarial-Network/main/pokemon1Processing.jpg" alt="Sarvesh | 100 Epoch Pokemon" width = "1500px"/>
 <br>
 
